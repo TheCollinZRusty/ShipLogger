@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShipLogger</string>
+    <string name="button_addShip">Add Ship</string>
+    <string name="hint_shiploggerDescription">Description </string>
+</resources>
